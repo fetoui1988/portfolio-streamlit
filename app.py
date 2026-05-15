@@ -177,10 +177,10 @@ def page_cv():
         st.progress(80)
 
         st.write("Streamlit")
-        st.progress(75)
+        st.progress(80)
 
         st.write("Machine Learning")
-        st.progress(70)
+        st.progress(80)
 
     with col2:
         st.write("Excel avancé")
@@ -190,13 +190,13 @@ def page_cv():
         st.progress(85)
 
         st.write("Power BI")
-        st.progress(70)
+        st.progress(78)
 
         st.write("Tableau")
-        st.progress(72)
+        st.progress(80)
 
         st.write("SAP")
-        st.progress(65)
+        st.progress(75)
 
     st.header("🛠️ Autres compétences")
 
@@ -204,7 +204,7 @@ def page_cv():
     - Analyse financière
     - Modélisation financière
     - Gestion de portefeuille
-    - SAP GBI
+    - SAP (MM, SD, FI)
     - Power BI
     - Tableau
     - SQL Server
@@ -218,7 +218,7 @@ def page_cv():
 
     st.header("📌 Expériences professionnelles")
 
-    st.subheader("Analyste des données — AZURIUS")
+    st.subheader("Analyste des données — Tact.inc")
     st.write("Québec, Canada | Octobre 2013 – Août 2014")
     st.markdown("""
     - Traitement de données administratives
