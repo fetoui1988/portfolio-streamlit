@@ -302,7 +302,7 @@ def page_projets():
 
     st.write("""
     Voici une sélection de projets que je vais présenter dans mon portfolio.
-    Les liens seront ajoutés plus tard.
+
     """)
 
     projets = [
@@ -310,7 +310,7 @@ def page_projets():
             "titre": "Acceptation carte bancaire",
             "tech": "Python • Machine Learning • Scikit-learn",
             "desc": "Modèle de classification pour prédire si un client accepte une offre bancaire ou une carte.",
-            "lien": "#"
+            "lien": "https://fetoui1988-supercard-streamlit-app-app-ehc5mu.streamlit.app/"
         },
         {
             "titre": "Projet SAP GBI",
