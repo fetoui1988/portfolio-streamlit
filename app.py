@@ -218,50 +218,37 @@ def page_cv():
 
     st.header("📌 Expériences professionnelles")
 
-    st.subheader("Analyste des données — Tact.inc")
-    st.write("Québec, Canada | Octobre 2013 – Août 2014")
+    st.subheader("Analyste financier et analyste de données — Banque Nationale Agricole")
+    st.write("2018 – 2022")
     st.markdown("""
-    - Traitement de données administratives
-    - Conception et gestion de bases de données
-    - Numérisation, classification et organisation documentaire
-    - Collecte et analyse de données CNESST et RAMQ
-    - Optimisation des processus de gestion documentaire
+    - Analyse financière et analyse de données pour soutenir la prise de décision
+    - Production de rapports de gestion et de tableaux de bord
+    - Analyse des portefeuilles clients et suivi des indicateurs de performance
+    - Extraction, validation et contrôle de la qualité des données
+    - Participation à l’amélioration des processus et à l’optimisation des activités
+    - Collaboration avec les équipes financières et opérationnelles
     """)
 
     st.divider()
 
-    st.subheader("Conseiller commercial — BIAT")
-    st.write("Tunisie | Janvier 2015 – Décembre 2020")
+    st.subheader("Commis de plancher — Ropack Pharma Solutions")
+    st.write("2022 – 2024")
     st.markdown("""
-    - Gestion d’un portefeuille de clients
-    - Analyse des besoins financiers des clients
-    - Conseil sur produits bancaires, prêts et investissements
-    - Suivi des dossiers commerciaux
-    - Préparation de rapports de performance commerciale
+    - Gestion des composantes, des matières premières et des fournitures des lignes de production
+    - Suivi des inventaires, application du FIFO et documentation des dossiers de production
+    - Respect des Bonnes Pratiques de Fabrication (BPF) et des normes de qualité
+    - Participation aux projets d’amélioration continue et au maintien des standards de productivité
+    - Formation et accompagnement des nouveaux employés
     """)
 
     st.divider()
 
-    st.subheader("Analyste financier — BIAT")
-    st.write("Sousse, Tunisie | Janvier 2021 – Août 2022")
+    st.subheader("Service de livraison, travailleur autonome — Intelcom Express")
+    st.write("2016 – 2018")
     st.markdown("""
-    - Analyse de performance des portefeuilles clients
-    - Évaluation des rendements et des risques financiers
-    - Préparation de rapports financiers
-    - Optimisation des stratégies de portefeuille
-    - Participation à l’amélioration des pratiques de gestion du risque
-    """)
-
-    st.divider()
-
-    st.subheader("Gestionnaire e-commerce — Chicura")
-    st.write("Montréal, Canada | Septembre 2022 – Mai 2025")
-    st.markdown("""
-    - Gestion d’une boutique Shopify
-    - Analyse de marché et anticipation de la demande
-    - Gestion des stocks, fournisseurs et importation
-    - Suivi des commandes et service client
-    - Optimisation des processus d’approvisionnement
+    - Planification et optimisation des itinéraires
+    - Gestion autonome des priorités et respect des délais
+    - Excellent service à la clientèle et résolution de problèmes
     """)
 
     st.header("🎓 Formation")
